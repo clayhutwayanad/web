@@ -1,0 +1,5 @@
+User-agent: *
+Crawl-Delay: 1
+Allow: /
+Disallow: .htaccess
+Sitemap: http://www.clayhut.co.in/sitemap.txt
