@@ -1,0 +1,208 @@
+#cd-social-tools UL:hover A[class^='cd-share'][class$='email']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -52px
+}
+#cd-social-tools UL A[class^='cd-share'][class$='email']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -52px
+}
+#cd-social-tools UL:hover A[class^='cd-share'][class$='print']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -130px
+}
+#cd-social-tools UL A[class^='cd-share'][class$='print']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -130px
+}
+#cd-social-tools UL:hover A[class^='cd-share'][class$='delicious']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px 0px
+}
+#cd-social-tools UL A[class^='cd-share'][class$='delicious']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px 0px
+}
+#cd-social-tools UL:hover A[class^='cd-share'][class$='digg']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -26px
+}
+#cd-social-tools UL A[class^='cd-share'][class$='digg']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -26px
+}
+#cd-social-tools UL:hover A[class^='cd-share'][class$='facebook']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -78px
+}
+#cd-social-tools UL A[class^='cd-share'][class$='facebook']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -78px
+}
+#cd-social-tools UL:hover A[class^='cd-share'][class$='linkedin']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -104px
+}
+#cd-social-tools UL A[class^='cd-share'][class$='linkedin']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -104px
+}
+#cd-social-tools UL:hover A[class^='cd-share'][class$='twitter']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -156px
+}
+#cd-social-tools UL A[class^='cd-share'][class$='twitter']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -156px
+}
+#cd-social-tools UL:hover A[class^='cd-share'][class$='dogear']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -182px
+}
+#cd-social-tools UL A[class^='cd-share'][class$='dogear']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -182px
+}
+#cd-social-tools UL:hover A[class^='cd-share'][class$='stumble']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -208px
+}
+#cd-social-tools UL A[class^='cd-share'][class$='stumble']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -208px
+}
+#cd-social-tools UL:hover A[class$='active-email']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat 0px -52px
+}
+#cd-social-tools UL:hover A[class$='active-print']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat 0px -130px
+}
+#cd-social-tools UL:hover A[class$='active-delicious']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat 0px 0px
+}
+#cd-social-tools UL:hover A[class$='active-digg']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat 0px -26px
+}
+#cd-social-tools UL:hover A[class$='active-facebook']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat 0px -78px
+}
+#cd-social-tools UL:hover A[class$='active-linkedin']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat 0px -104px
+}
+#cd-social-tools UL:hover A[class$='active-twitter']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat 0px -156px
+}
+#cd-social-tools UL:hover A[class$='active-cd-dogear']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat 0px -182px
+}
+#cd-social-tools UL:hover A[class$='active-stumble']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat 0px -208px
+}
+
+
+.cd-share-this UL:hover A[class^='cd-share'][class$='email'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -26px -52px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='print'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -26px -130px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='delicious'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -26px 0px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='digg'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -26px -26px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='facebook'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -26px -78px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='linkedin'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -26px -104px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='twitter'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -26px -156px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='dogear'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -26px -182px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='stumble'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -26px -208px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='email']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -52px
+}
+.cd-share-this UL A[class^='cd-share'][class$='email']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -52px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='print']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -130px
+}
+.cd-share-this UL A[class^='cd-share'][class$='print']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -130px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='delicious']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px 0px
+}
+.cd-share-this UL A[class^='cd-share'][class$='delicious']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px 0px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='digg']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -26px
+}
+.cd-share-this UL A[class^='cd-share'][class$='digg']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -26px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='facebook']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -78px
+}
+.cd-share-this UL A[class^='cd-share'][class$='facebook']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -78px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='linkedin']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -104px
+}
+.cd-share-this UL A[class^='cd-share'][class$='linkedin']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -104px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='twitter']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -156px
+}
+.cd-share-this UL A[class^='cd-share'][class$='twitter']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -156px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='dogear']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -182px
+}
+.cd-share-this UL A[class^='cd-share'][class$='dogear']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -182px
+}
+.cd-share-this UL:hover A[class^='cd-share'][class$='stumble']:hover {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -208px
+}
+.cd-share-this UL A[class^='cd-share'][class$='stumble']:focus {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -78px -208px
+}
+ 
+
+A[class^='cd-share'][class$='email'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -52px -52px
+}
+A[class^='cd-share'][class$='print'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -52px -130px
+}
+A[class^='cd-share'][class$='delicious'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -52px 0px
+}
+A[class^='cd-share'][class$='digg'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -52px -26px
+}
+A[class^='cd-share'][class$='facebook'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -52px -78px
+}
+A[class^='cd-share'][class$='linkedin'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -52px -104px
+}
+A[class^='cd-share'][class$='twitter'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -52px -156px
+}
+A[class^='cd-share'][class$='dogear'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -52px -182px
+}
+A[class^='cd-share'][class$='stumble'] {
+	BACKGROUND: url(../images/sprites-pt-all.png) no-repeat -52px -208px
+}
+
+
+#cd-social-tools {
+	Z-INDEX: 500; POSITION: absolute; WIDTH: 25px; TOP: 520px; RIGHT: 0px; _right: -1px
+}
+#cd-social-tools UL {
+	BORDER-BOTTOM: #aaa 1px solid;  BORDER-LEFT: #aaa 1px solid; PADDING-BOTTOM: 3px;   MARGIN: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 6px; FLOAT: right; BORDER-TOP: #aaa 1px solid; BORDER-RIGHT: #aaa 0px; PADDING-TOP: 3px; opacity: .8; box-shadow: 0px 0 5px rgba(0, 0, 0, .8); -moz-box-shadow: 0px 0 5px rgba(0, 0, 0, .8); -webkit-box-shadow: 0px 0 5px #888; -webkit-transition-property: opacity; -webkit-transition-duration: .5s; -o-transition-property: opacity; -o-transition-duration: .5s; -moz-transition-property: opacity; -moz-transition-duration: .5s
+}
+
+#cd-social-tools LI {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 2px;list-style:none;	
+}
+#cd-social-tools A {
+	PADDING-BOTTOM: 0px; TEXT-INDENT: -9999px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 0px; DISPLAY: block; FLOAT: left; HEIGHT: 16px; OVERFLOW: hidden; PADDING-TOP: 0px
+}

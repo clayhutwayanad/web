@@ -1,0 +1,60 @@
+
+		 
+	@font-face {
+    font-family: 'TrajanProRegular';
+    src: url('trajanpro-regular.eot');
+    src: url('trajanpro-regular.eot') format('embedded-opentype'),
+         url('trajanpro-regular.woff') format('woff'),
+         url('trajanpro-regular.ttf') format('truetype'),
+         url('trajanpro-regular.svg#TrajanProRegular') format('svg');}
+		 
+		 
+		 
+	.main_menu{
+	font-family: 'TrajanProRegular';
+	font-size:14px;
+	text-align: center;
+	color:#fff;
+	line-height:20px;
+	font-style:normal;
+	font-weight:normal;
+	text-transform: none;
+	text-decoration:none;}
+	
+	.main_menu a{
+	font-family: 'TrajanProRegular';
+	font-size:14px;
+	text-align: center;
+	color:#fff;
+	line-height:20px;
+	font-style:normal;
+	font-weight:normal;
+	text-transform: none;
+	text-decoration:none;}
+	
+	.main_menu a:hover{
+	font-family: 'TrajanProRegular';
+	font-size:14px;
+	text-align: center;
+	color:#fff;
+	line-height:20px;
+	font-style:normal;
+	font-weight:normal;
+	text-transform: none;
+	text-decoration:none;}
+	
+#main_menu_btn{
+ height:30px;
+ padding-top:12px;
+ padding-left:15px;
+ padding-right:15px;
+ float:left;
+ padding-bottom:3px;
+ text-transform: none;
+ }
+ 
+ #main_menu_btn:hover{
+ background-color:#e28e0a;}
+	
+	
+	
